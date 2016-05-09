@@ -26,3 +26,9 @@
 *.exe
 *.out
 *.app
+
+.DS_Store
+
+# Project specific
+.d/
+obj2cpp
